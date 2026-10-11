@@ -1,0 +1,7 @@
+<library path="lib/libiimt_local_planner">
+  <class name="iimt_local_planner/IIMTPlannerROS" type="iimt_local_planner::IIMTPlannerROS" base_class_type="nav_core::BaseLocalPlanner">
+    <description>
+      A implementation of a local planner using either a DWA approach based on configuration parameters.
+    </description>
+  </class>
+</library>
